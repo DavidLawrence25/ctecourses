@@ -1,0 +1,25 @@
+body {
+  background-color: #101010;
+  color: white;
+  font-family: sans-serif, Helvetica, Arial;
+}
+
+p {
+  font-size: 19px;
+  margin: 10px;
+}
+
+h6 {
+  margin: 10px;
+}
+
+.tableHeader {
+  font-size: 50px;
+  text-align: center;
+}
+
+.imageBorder {
+  border-color: #202020;
+  border-width: 10px;
+  border-style: solid;
+}
